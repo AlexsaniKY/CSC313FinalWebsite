@@ -77,3 +77,6 @@ c:\users\alexsani\documents\visual studio 2015\Projects\CSC313Final\CSC313Final\
 c:\users\alexsani\documents\visual studio 2015\Projects\CSC313Final\CSC313Final\obj\Debug\CSC313Final.csprojResolveAssemblyReference.cache
 c:\users\alexsani\documents\visual studio 2015\Projects\CSC313Final\CSC313Final\obj\Debug\CSC313Final.dll
 c:\users\alexsani\documents\visual studio 2015\Projects\CSC313Final\CSC313Final\obj\Debug\CSC313Final.pdb
+c:\Users\Alexsani\Documents\Visual Studio 2015\Projects\CSC313Final\CSC313Final\bin\MySql.Data.dll
+c:\Users\Alexsani\Documents\Visual Studio 2015\Projects\CSC313Final\CSC313Final\bin\Google.Protobuf.dll
+c:\Users\Alexsani\Documents\Visual Studio 2015\Projects\CSC313Final\CSC313Final\bin\MySql.Data.xml
